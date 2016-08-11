@@ -1,4 +1,3 @@
-# ng2_starter
 Angular 2.0 Guide
 
 #Get it running
