@@ -1,0 +1,31 @@
+.content{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    background-color: lightgray;
+    display: inline-block;
+    border-radius: 5px;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+}
+
+.error{
+    border: 2px solid red;
+}
+
+.child-content{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    background-color: whitesmoke;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.link{
+    color: blue;
+    cursor: pointer;
+    font-size:10px;
+}
