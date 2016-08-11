@@ -1,10 +1,10 @@
 # ng2_starter
-Angular 2.0 starter
+Angular 2.0 Guide
 
-#Usage
-`git clone https://github.com/essaji/ng2_starter.git`
+#Get it running
+`git clone https://github.com/essaji/ng2_guide.git`
 
-`cd ng2_starter`
+`cd ng2_guide`
 
 `npm install`
 
