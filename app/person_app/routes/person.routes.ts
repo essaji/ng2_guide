@@ -3,6 +3,6 @@ import {DisplayPeopleCmp} from "../directives/components/display_people.componen
 import {AddPersonCmp} from "../directives/components/add_person.component";
 
 export const personRoutes = provideRouter([
-    {path: "", component: DisplayPeopleCmp, useAsDefault: true},
+    {path: "", component: DisplayPeopleCmp},
     {path: "add_person", component: AddPersonCmp}
 ]);

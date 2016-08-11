@@ -15,6 +15,4 @@ import {ROUTER_DIRECTIVES} from '@angular/router';
     providers: [personRoutes],
     directives: [ROUTER_DIRECTIVES]
 })
-export class MainApp{
-
-}
+export class MainApp{}

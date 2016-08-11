@@ -12,8 +12,6 @@ export class PersonService{
             (data) => self.people = data.json(),
             (err) => console.log(err)
         );
-
-
     }
 
     insertData(person:{name:string,age:number}){
