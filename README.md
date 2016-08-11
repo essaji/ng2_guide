@@ -1,6 +1,6 @@
-Angular 2.0 Guide
+#Angular 2.0 Guide
 
-#Get it running
+##Get it running
 `git clone https://github.com/essaji/ng2_guide.git`
 
 `cd ng2_guide`
